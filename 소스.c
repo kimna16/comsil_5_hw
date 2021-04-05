@@ -7,7 +7,7 @@ int main() {
 		sum += i;
 		
 	}
-	printf("sum은 1부터 %d까지의 합이다.\n",i);
+	printf("sum is the sum of integers from 1 to %d.\n",i);
 
 	return 0;
 }
