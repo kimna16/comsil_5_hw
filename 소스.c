@@ -8,6 +8,6 @@ int main() {
 		
 	}
 	printf("sum is the sum of integers from 1 to %d.\n",i);
-
+        printf("sum = %d\n",sum);
 	return 0;
 }
